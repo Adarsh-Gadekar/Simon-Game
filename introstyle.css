@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-color: #FEF2BF;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#intro{
+  font-size: 3rem;
+  margin:  5%;
+  color: #011f3f;
+  
+}
+
+.btn{
+    font-family: 'Press Start 2P', cursive;
+    background-color: green;
+    color:white;
+    font-size: 2rem;
+    border-radius: 20px;
+    padding: 2rem;
+    position: relative;
+    margin-top: 2%;
+}
+
+#rules{
+    position: relative;
+    color: #011f3f;
+    text-align: left;
+    margin-left: 5%;
+
+}
+
+li{
+    margin: 30px;
+    list-style: none;
+}
